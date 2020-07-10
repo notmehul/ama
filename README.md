@@ -24,3 +24,6 @@ Gaming. Movies. Whatever. :joy:
 
  - [Read more AMAs.](https://github.com/sindresorhus/amas)
  - [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
+
+### :scroll: License ? [![GitHub license](https://img.shields.io/github/license/Naereen/ama.svg)](https://github.com/notmehul/ama/blob/master/LICENSE)
+This (small) repository is published under the terms of the [MIT license](LICENSE.txt). © [Mehul Srivastava](https://GitHub.com/notmehul), 2020-21.
