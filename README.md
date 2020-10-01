@@ -16,7 +16,7 @@ Gaming. Movies. Whatever. :joy:
  - :mag: Ensure your question has not already been answered.
  - :memo: Use a succinct title and description.
  - :blush: Be nice, civil and polite ([as always](http://contributor-covenant.org/version/1/4/)).
- - :heart_eyes: If you include at least one emoji in your question, the feedback might come faster!
+ - :heart_eyes: If you include at least one emoji in your question, the feedback might come faster than ever. please send in your questions ASAP.
 
 ----
 
